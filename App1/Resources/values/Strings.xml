@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">App1</string>
+    <string name="app_name">Header Drawer</string>
+    <string name="strBottomLine">Text is from string.xml</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="title">Hello from toolbar</string>
+    <string name="home_title">HomePage</string>
+    <string name="msg_title">MessagesPage</string>
+    <string name="member_title">MembersPage</string>
+</resources>
